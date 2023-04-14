@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Raimond\Desktop\CS-300 Analysis and Design\CS 300 Linked List Assignment Student Files\CS 300 Linked List Assignment Student Files\CMakeFiles\e1dc2700cb5f3d120295473ccc328279\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Raimond\Desktop\CS-300 Analysis and Design\CS 300 Linked List Assignment Student Files\CS 300 Linked List Assignment Student Files\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Raimond\Desktop\CS-300 Analysis and Design\CS 300 Linked List Assignment Student Files\CS 300 Linked List Assignment Student Files\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{111A95E7-B575-3387-A665-BFB25445C000}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

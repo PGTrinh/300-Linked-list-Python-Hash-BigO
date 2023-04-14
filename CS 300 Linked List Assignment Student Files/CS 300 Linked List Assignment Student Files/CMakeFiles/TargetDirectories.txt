@@ -1,0 +1,10 @@
+C:/Users/Raimond/Desktop/CS-300 Analysis and Design/CS 300 Linked List Assignment Student Files/CS 300 Linked List Assignment Student Files/CMakeFiles/Experimental.dir
+C:/Users/Raimond/Desktop/CS-300 Analysis and Design/CS 300 Linked List Assignment Student Files/CS 300 Linked List Assignment Student Files/CMakeFiles/Nightly.dir
+C:/Users/Raimond/Desktop/CS-300 Analysis and Design/CS 300 Linked List Assignment Student Files/CS 300 Linked List Assignment Student Files/CMakeFiles/Continuous.dir
+C:/Users/Raimond/Desktop/CS-300 Analysis and Design/CS 300 Linked List Assignment Student Files/CS 300 Linked List Assignment Student Files/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Raimond/Desktop/CS-300 Analysis and Design/CS 300 Linked List Assignment Student Files/CS 300 Linked List Assignment Student Files/CMakeFiles/csv-parser.dir
+C:/Users/Raimond/Desktop/CS-300 Analysis and Design/CS 300 Linked List Assignment Student Files/CS 300 Linked List Assignment Student Files/CMakeFiles/bid.dir
+C:/Users/Raimond/Desktop/CS-300 Analysis and Design/CS 300 Linked List Assignment Student Files/CS 300 Linked List Assignment Student Files/CMakeFiles/PACKAGE.dir
+C:/Users/Raimond/Desktop/CS-300 Analysis and Design/CS 300 Linked List Assignment Student Files/CS 300 Linked List Assignment Student Files/CMakeFiles/RUN_TESTS.dir
+C:/Users/Raimond/Desktop/CS-300 Analysis and Design/CS 300 Linked List Assignment Student Files/CS 300 Linked List Assignment Student Files/CMakeFiles/ALL_BUILD.dir
+C:/Users/Raimond/Desktop/CS-300 Analysis and Design/CS 300 Linked List Assignment Student Files/CS 300 Linked List Assignment Student Files/CMakeFiles/ZERO_CHECK.dir

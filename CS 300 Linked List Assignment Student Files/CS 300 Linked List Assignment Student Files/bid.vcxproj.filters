@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Raimond\Desktop\CS-300 Analysis and Design\CS 300 Linked List Assignment Student Files\CS 300 Linked List Assignment Student Files\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Raimond\Desktop\CS-300 Analysis and Design\CS 300 Linked List Assignment Student Files\CS 300 Linked List Assignment Student Files\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{422BB5E9-71C6-368B-A085-BA16F0229572}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
